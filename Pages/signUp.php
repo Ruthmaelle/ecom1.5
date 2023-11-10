@@ -11,7 +11,7 @@
     <label for="pwd">Mot de passe</label>
     <input type="password" name="pwd" id="pwd" value="">
 
-    <button type="submit">Soumettre</button>
+    <button type="submit">S'enregistrer </button>
 
 
 </form>
